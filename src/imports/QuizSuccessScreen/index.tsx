@@ -39,7 +39,7 @@ function Container3() {
   return (
     <div className="-translate-x-1/2 -translate-y-1/2 absolute content-stretch flex flex-col items-center left-[calc(50%-0.51px)] top-[calc(50%+97.7px)]" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Pretendard:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[#4b5563] text-[18px] text-center w-[136.02px]">
-        <p className="leading-[28.8px] mb-0">기준 금리 퀴즈를</p>
+        <p className="leading-[28.8px] mb-0">퀴즈를</p>
         <p className="leading-[28.8px]">모두 맞히셨어요.</p>
       </div>
     </div>
@@ -136,7 +136,7 @@ function Container8() {
   return (
     <div className="content-stretch flex flex-col items-center relative shrink-0" data-name="Container">
       <div className="[word-break:break-word] flex flex-col font-['Pretendard:Bold',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[18px] text-center text-white w-[231.2px]">
-        <p className="leading-[27px]">기준금리 관련 뉴스 찾아보기</p>
+        <p className="leading-[27px]">관련 뉴스 찾아보기</p>
       </div>
     </div>
   );
